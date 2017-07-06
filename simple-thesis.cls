@@ -51,7 +51,7 @@
 \RequirePackage{graphicx}           % Required for the affiliation Logo (on the title page)
 \RequirePackage{calc}               % Used for calculating margins and laying out the title page
 \RequirePackage{setspace}      	    % Used for selecting single or onehalf line spacing.
-\RequirePackage{natbib}             % We need to generate bibliography
+\RequirePackage[round]{natbib}      % We need to generate bibliography
 
 % Hyperref should be included in any case, but we make it non-obtrusive (i.e.: no hyperlink borders).
 \RequirePackage[
