@@ -227,9 +227,7 @@ This dissertation is submitted in partial fulfilment of the requirements for the
 \newsavebox{\simple@submitnotice}
 \begin{lrbox}{\simple@submitnotice}
     \begin{minipage}[c][\height][c]{.98\textwidth}
-        \begin{center}
-            \@submissionnotice{}
-        \end{center}
+        \@submissionnotice{}
     \end{minipage}
 \end{lrbox}
 
